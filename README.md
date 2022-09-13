@@ -1,5 +1,5 @@
 
-## Accomplishments/What we did right ✅
+## Accomplishments / What we did right ✅
 
 
 ## Problem Areas 🧐
@@ -8,4 +8,4 @@
 ## Learnings / Takeaways 💪
 
 
-## Future Directions 🗺
+## Future Directions 🧠
